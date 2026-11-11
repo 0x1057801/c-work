@@ -1,0 +1,3 @@
+I completed the last/toughest project of this chapter.  I just made sure I coudl still switch on stuff and
+use conditionals effectively.  I did not implement input checking for number of digits which I think would
+be best here but I'm reviewing right now, not trying to go completionist on this book.
