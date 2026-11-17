@@ -1,0 +1,13 @@
+int counter = 10
+
+void increment(void)
+{
+	int ccounter = 5
+	counter++
+}
+
+int main(void)
+{
+	increment();
+	printf(counter)
+}

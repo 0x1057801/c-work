@@ -1,0 +1,9 @@
+//pseudocode for my answer to question 1 showing my reasoning of the code
+int a = 7
+int b = 2
+
+double x = a / b; // this divides 7/2 truncating decimal and becomes 3. Stored in double as 3.0
+double y = (double)a/b // this casts a to 7.0 making the quotient a floating point num because 7.0/2.0, thus 3.5 stored in y
+
+printf(3)
+printf(3.5)
